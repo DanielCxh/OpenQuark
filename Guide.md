@@ -1,6 +1,6 @@
 # 学习指导
 
-### 资源
+## 资源
 
 #### 国内在线量化平台
 + [BigQuant](https://bigquant.com/)
@@ -60,8 +60,15 @@
     + 生成数组 - np.array(list)
     + 指定范围和数值间的间隔生成 array - np.arange(10)
     + 随机数 - np.random.rand(3,4) #创建指定为3行4列)的数组(范围在0至1之间)
-+ Pandas     - 时间序列、数据分析
-+ Matplotlib - 可视化分析
-+ Seaborn    - 可视化分析
++ [Pandas](https://pypi.org/project/pandas/) - 时间序列、数据分析
+    + 安装 - pip install pandas
+    + 导入 - import pandas as pd
++ [Matplotlib](https://pypi.org/project/matplotlib/) - 可视化分析
+    + 安装 - pip install matplotlib
+    + 导入 - import matplotlib.pyplot as plt
++ [Seaborn](https://pypi.org/project/seaborn/) - 可视化分析
+    + 安装 - pip install seaborn
+    + 导入 - import seaborn as sns
 + Sklearn    - 机器学习
-+ TA-Lib     - 多平台市场分析工具
++ [TA-Lib](https://pypi.org/project/TA-Lib/) - 多平台市场分析工具
+    + 安装 - pip install TA-Lib
