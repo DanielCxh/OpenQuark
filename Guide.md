@@ -53,9 +53,15 @@
 + 《期权、期货和其他衍生品》 约翰·赫尔
 
 ### Python常用库
-+ Numpy
-+ Pandas
-+ Matplotlib
-+ Seaborn
-+ Sklearn
-+ TA-Lib
++ [Numpy](https://pypi.org/project/numpy/) - 数组、线性代数
+  + 安装 - pip install numpy
+  + 导入 - import numpy as np
+  + 使用
+    + 生成数组 - np.array(list)
+    + 指定范围和数值间的间隔生成 array - np.arange(10)
+    + 随机数 - np.random.rand(3,4) #创建指定为3行4列)的数组(范围在0至1之间)
++ Pandas     - 时间序列、数据分析
++ Matplotlib - 可视化分析
++ Seaborn    - 可视化分析
++ Sklearn    - 机器学习
++ TA-Lib     - 多平台市场分析工具
