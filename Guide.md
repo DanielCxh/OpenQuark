@@ -72,3 +72,6 @@
 + Sklearn    - 机器学习
 + [TA-Lib](https://pypi.org/project/TA-Lib/) - 多平台市场分析工具
     + 安装 - pip install TA-Lib
++ [baostock](https://pypi.org/project/baostock/)
+    + 安装 - pip install baostock - 股票参数
+    + 导入 - import baostock

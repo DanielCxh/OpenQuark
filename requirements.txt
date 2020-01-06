@@ -1,0 +1,13 @@
+# Create requirements.txt according current pip config of system.
+# pip freeze > requirements.txt
+
+# Install library from requirements.txt
+# pip install -r requirements.txt
+
+#numpy
+#pandas
+#matplotlib
+baostock
+#TA-Lib
+seaborn
+urllib
